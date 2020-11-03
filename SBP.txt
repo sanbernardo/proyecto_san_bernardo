@@ -1,0 +1,722 @@
+<!doctype html>
+<html lang="es-ES">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<title></title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://proyectovinology.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; RSS de los comentarios" href="https://proyectovinology.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1596548281h&ver=5.5-wpcom-48929"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJydkttOwzAMhl+INLRIMC4Qz5KD6bzlpMRZ6dvjdlCNFlUTihTFjr/fjh05JGFiIAgkfRXJ1R5DkUMy0Yvi0cG4shpTyoO8wbSL/QJ6lc9AGHqhVZYc+tuzgW9ylqqLyZgII1sf0bk47MUf4wWy0FVrB0zT6GAJx2BcteyeKrCqHJEFSuMxbENORRLfn3X8XA6bvD9J+8qmhtzzTQb52rRNK3VFZ6c+mLNwqLPK46qef8vQEfw9MjPFbwFKasLVGCuJPqO9u5KVRFbT0NaNXeMmfmNdw0taLLT4xN/ozQiV5YnMP+X6xRb7CqEMkebJLYc9tamV7PdJ0RThwaICx/0LtIddU2udMpQiePdYvZgbP6d792/t8+NTd2hfDt3pC9EWMhw=?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+</style>
+<style id='wpcom-admin-bar-inline-css'>
+
+			.admin-bar {
+				position: inherit !important;
+				top: auto !important;
+			}
+			.admin-bar .goog-te-banner-frame {
+				top: 32px !important
+			}
+			@media screen and (max-width: 782px) {
+				.admin-bar .goog-te-banner-frame {
+					top: 46px !important;
+				}
+			}
+			@media screen and (max-width: 480px) {
+				.admin-bar .goog-te-banner-frame {
+					position: absolute;
+				}
+			}
+		
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--color--primary:#1279BE;--wp--preset--color--secondary:#FFB302;--wp--preset--color--foreground-dark:#101010;--wp--preset--color--foreground:#303030;--wp--preset--color--foreground-light:#757575;--wp--preset--color--background-dark:#C5C5C5;--wp--preset--color--background-light:#F8F8F8;--wp--preset--color--background:#FFFFFF;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small:17.3914;--wp--preset--font-size--normal:23;--wp--preset--font-size--large:26.45;--wp--preset--font-size--huge:30.4174;}
+</style>
+<link rel='stylesheet' id='all-css-2-1' href='https://s0.wp.com/wp-content/mu-plugins/comment-likes/css/comment-likes.css?m=1407378799h&cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3-1' href='https://s0.wp.com/wp-content/themes/pub/varia/print.css?m=1571655471h&cssminify=yes' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s0.wp.com/_static/??-eJx9jUESgjAMRS9kjCLqyvEspYRSbZtOG+h4e2HcoDLs8ifv/Y8lguYgFASlJ08Z49BgTyMlzPJytNc573AdG1WyCm3QHxRK1Oz/BD9AdIOxIWOxrSHJSMP05aclcKqgkI9OyVS6vrgoMMTgWCuxHL4CdE7ZtKUGnhdU622ARiUYqy06UePYTKfBiVrELUk4Q6LISaDj5H/zrN797Xg5nOrzpb5Wjzdqwo7t?cssminify=yes' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='hever-fonts-css'  href='https://fonts.googleapis.com/css?family=PT+Sans%3A400%2C400i%2C700%2C700i&#038;subset=latin%2Clatin-ext&#038;display=swap' media='all' />
+<link rel='stylesheet' id='all-css-6-1' href='https://s0.wp.com/_static/??/wp-content/themes/pub/hever/style.css,/wp-content/mu-plugins/admin-bar/masterbar-overrides/masterbar.css?m=1603456472j&cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link rel='stylesheet' id='all-css-8-1' href='https://s0.wp.com/_static/??-eJxti8sKgCAQAH8oW6KHdoi+xcTUWF1pjX4/OnSIOg0DM3BmYSgVmwrEQ2Q8XEgMmbiIFXXYgb3eQ3IPa8Ncwf/FZIJGgeToLZ+peBstg+/AIS0a72COU9OPUg69atV2AWWKN+I=?cssminify=yes' type='text/css' media='all' />
+<script id='wpcom-actionbar-placeholder-js-extra'>
+var actionbardata = {"siteID":"183828716","siteName":"proyectovinology.wordpress.com","siteURL":"http:\/\/proyectovinology.wordpress.com","icon":"<img alt='' src='https:\/\/s0.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"1","canCustomizeSite":"1","isFollowing":"1","themeSlug":"pub\/hever","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fproyectovinology.wordpress.com%2F&signup_flow=account","themeURL":"https:\/\/wordpress.com\/theme\/hever\/","xhrURL":"https:\/\/proyectovinology.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"48fea81871","isSingular":"1","isFolded":"","isLoggedIn":"1","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"308fa0c40a\" \/>","referer":"https:\/\/proyectovinology.wordpress.com\/","canFollow":"1","feedID":"109397656","statusMessage":"","customizeLink":"https:\/\/proyectovinology.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fproyectovinology.wordpress.com%2F","postID":"6","shortlink":"https:\/\/wp.me\/Pcrkfi-6","canEditPost":"1","editLink":"https:\/\/wordpress.com\/page\/proyectovinology.wordpress.com\/6","statsLink":"https:\/\/wordpress.com\/stats\/post\/6\/proyectovinology.wordpress.com","i18n":{"view":"Ver sitio web","follow":"Seguir","following":"Siguiendo","edit":"Editar","login":"Acceder","signup":"Reg\u00edstrate","customize":"Personalizar","report":"Denunciar este contenido","themeInfo":"Obten ayuda para configurar tu tema","shortlink":"Copiar enlace corto","copied":"Copiado","followedText":"Las entradas nuevas de este sitio aparecer\u00e1n ahora en tu <a href=\"https:\/\/wordpress.com\/read\">Lector<\/a>","foldBar":"Contraer esta barra","unfoldBar":"Expandir esta barra","editSubs":"Gestionar las suscripciones","viewReader":"Ver sitio web en el Lector","viewReadPost":"View post in Reader","subscribe":"Suscr\u00edbeme","enterEmail":"Introduce tu email","followers":"","alreadyUser":"\u00bfYa tienes una cuenta de WordPress.com? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fproyectovinology.wordpress.com%2F&signup_flow=account\">Accede ahora<\/a>.","stats":"Estad\u00edsticas"}};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJxtjtEKwjAMRX/IWmR0+CJ+i6vZSGmT2jSM/b15mKAyCFySHC7Hr9UhxaxPEJ9sXgpt2+Oc5OQNiEwdqPuirmZdkMSLThIb1o5s28w58/qPW11l6QVEHgscfAtPmMGpQDOAupnM/OG+raQiHd1/bXfqXm6XEK5DGMcwpDe2+1Nw'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://proyectovinology.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s0.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://proyectovinology.wordpress.com/" />
+<link rel='shortlink' href='https://wp.me/Pcrkfi-6' />
+		<!-- Custom Logo: hide header text -->
+		<style id="custom-logo-css" type="text/css">
+			.site-title, .site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+		</style>
+		<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fproyectovinology.wordpress.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fproyectovinology.wordpress.com%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="(sin título)" />
+<meta property="og:url" content="https://proyectovinology.wordpress.com/" />
+<meta property="og:image" content="https://proyectovinology.files.wordpress.com/2020/10/shopping-6.png?w=187" />
+<meta property="og:locale" content="es_ES" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:text:title" content="Página de inicio" />
+<meta name="twitter:image" content="https://proyectovinology.files.wordpress.com/2020/10/shopping-1-2.png?w=144" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Visita la entrada para saber más." />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="shortcut icon" type="image/x-icon" href="https://s0.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s0.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon" href="https://s0.wp.com/i/webclip.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://proyectovinology.wordpress.com/osd.xml" title="" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="WordPress.com" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Escribir entradas, gestionar comentarios y gestionar WordPress.com." /><meta name="msapplication-task" content="name=Editar página;action-uri=https://wordpress.com/page/proyectovinology.wordpress.com/6;icon-uri=https://s0.wp.com/i/icons/page.ico" /><meta name="msapplication-task" content="name=Escribir una entrada;action-uri=https://wordpress.com/post/proyectovinology.wordpress.com;icon-uri=https://s0.wp.com/i/icons/post.ico" /><meta name="msapplication-task" content="name=Moderar comentarios;action-uri=https://proyectovinology.wordpress.com/wp-admin/edit-comments.php?comment_status=moderated;icon-uri=https://s0.wp.com/i/icons/comment.ico" /><meta name="msapplication-task" content="name=Subir archivos multimedia;action-uri=https://proyectovinology.wordpress.com/wp-admin/media-new.php;icon-uri=https://s0.wp.com/i/icons/media.ico" /><meta name="msapplication-task" content="name=Estadísticas del blog;action-uri=https://proyectovinology.wordpress.com/wp-admin/index.php?page=stats;icon-uri=https://s0.wp.com/i/icons/stats.ico" /><meta name="description" content="Es una vinoteca que ha sido ideada como un espacio de interacción entre el cliente y el mundo vitivinícola. $200 $1500 $500 $3500 $650 $4000 Reserva tu lugar Realizamos catas semanalmente. Podes asegurar tu participación llenando el formulario. Para reservar tu lugar, llámanos al 4901-5849 o usa el siguiente formulario. Información de contacto Horario de&hellip;" />
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	</head>
+
+<body class="home page-template-default page page-id-6 logged-in admin-bar no-customize-support wp-embed-responsive customizer-styles-applied singular image-filters-enabled hide-homepage-title has-marketing-bar highlander-enabled highlander-light">
+
+		<div id="wpadminbar" class="nojq nojs ltr">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Abrir la barra de herramientas</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de herramientas" tabindex="0">
+						<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+			
+		<li id="wp-admin-bar-blog" class="my-sites mb-trackable"><a class="ab-item"  href="https://wordpress.com/sites/proyectovinology.wordpress.com">Mis sitios web</a>		</li>
+		<li id="wp-admin-bar-jumptotop-button-menu"><a class="ab-item"  href="#"><div id="jumptotop"><span class="noticon noticon-top"></span></div></a>		</li>
+		<li id="wp-admin-bar-newdash" class="mb-trackable"><a class="ab-item"  href="https://wordpress.com/read">Lector</a>		</li>		</ul>
+			<ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+			
+		<li id="wp-admin-bar-notes" class="menupop">		<div class="ab-item ab-empty-item" ><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read"></span><span class="noticon noticon-bell"></span><span class="ab-text">Notificaciones</span></div><div id="wpnt-notes-panel2" style="display:none" lang="es" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header"></span><span class="wpnt-notes-panel-link"></span></div></div>		</li>
+		<li id="wp-admin-bar-my-account" class="with-avatar mb-trackable"><a class="ab-item"  href="https://wordpress.com/me/"><img alt='' src='https://2.gravatar.com/avatar/b659ee80f6db8a5073d32327d5e4b343?s=32&#038;d=mm&#038;r=G' class='avatar avatar-32' height='32' width='32' /><span class="ab-text">Yo</span></a>		</li>
+		<li id="wp-admin-bar-ab-new-post" class="mb-trackable"><a class="ab-item"  href="https://wordpress.com/post/proyectovinology.wordpress.com"><span>Escribir</span></a>		</li>		</ul>
+				</div>
+							<a class="screen-reader-shortcut" href="https://proyectovinology.wordpress.com/wp-login.php?action=logout&#038;_wpnonce=462a39df5e">Cerrar sesión</a>
+					</div>
+
+	
+<script type="text/javascript">
+/* <![CDATA[ */
+var clickDebugLink;
+
+jQuery(document).ready( function($) {
+	var single = false, w = 1000,
+		supe = false;
+
+	$(document.body).load(function(){ $('#wpadminbar img.grav-hashed').removeClass('grav-hashed'); }); // hack to hide the gravatar hovercard
+
+	if ( single && supe )
+		w = 1385;
+	else if ( supe )
+		w = 1200;
+
+	// debug bar extra
+	clickDebugLink = function( parent_id, obj ) {
+
+		$('#'+parent_id).children('div').hide();
+
+		document.getElementById( obj.href.substr( obj.href.indexOf( '#' ) + 1 ) ).style.display = 'block';
+		$( obj.href.substr( obj.href.indexOf( '#' ) ) ).show()
+
+		$(obj).parent().addClass('current').siblings('li').removeClass('current');
+
+		return false;
+	};
+
+	$( '#wpadminbar #wp-admin-bar-shortlink' ).click( function() {
+		$( '#adminbar-shortlink-input' ).select();
+	});
+
+	// skip tap-to-hover on site switcher for mobile
+	if ( 'ontouchstart' in window ) {
+		$('#wp-admin-bar-switch-site').on( 'touchstart', function( event ) {
+			if ( $( window ).width() > 782 ) {
+				return;
+			}
+			event.stopPropagation();
+			$( event.target ).first( 'a' ).click();
+		});
+	}
+
+});
+/* ]]> */
+</script>
+	<div class="wpcom-bubble action-bubble">
+		<div class="bubble-txt"></div>
+	</div>
+	<script type="text/javascript">function hideBubble() { jQuery('body').append( jQuery( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble touchstart.bubble' ); jQuery(document).off( 'scroll.bubble' ); };</script>
+		<script type="text/javascript">
+	jQuery( '#wp-admin-bar-jumptotop-button-menu a' ).click( function( e ) {
+		e.preventDefault();
+		jQuery( 'html, body' ).animate( { scrollTop: 0 }, 'fast' );
+	} );
+	function hideShowTbJumpToTop() {
+		var total_width = 0;
+		// Calculate total width taken by items minus our button to see if it'll
+		// overlap with other toolbar menus.
+		jQuery( '#wp-admin-bar-root-default > li' ).each( function() {
+			var self = jQuery( this );
+			if ( 'wp-admin-bar-jumptotop-button-menu' != self.attr( 'id' ) )
+				total_width += self.width();
+		});
+		if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() >= 350 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) < 0 ) {
+			if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 )
+			   return;
+			jQuery( '#jumptotop' ).animate( { 'top': 0 }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() < 1 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) >= 0 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		}
+	}
+	// handle on page load if auto scrolling to a position
+	hideShowTbJumpToTop();
+	// bind to scrolll event
+	var jumpToTopTimer = null;
+	jQuery( window ).scroll( function() {
+		clearTimeout( jumpToTopTimer );
+		jumpToTopTimer = setTimeout( jumpToTopRefresh, 150 );
+	} );
+	var jumpToTopRefresh = function() {
+		hideShowTbJumpToTop();
+	};
+	</script>
+		
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Saltar al contenido</a>
+
+	
+		<header id="masthead" class="site-header responsive-max-width">
+
+			
+
+
+
+			
+			
+		</header><!-- #masthead -->
+
+	
+	<div id="content" class="site-content">
+
+	<section id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+			
+<article id="post-6" class="post-6 page type-page status-publish hentry entry">
+
+	<header class="entry-header responsive-max-width">
+		
+<h1 class="entry-title">Página de inicio</h1>
+	</header>
+
+	<div class="entry-content">
+		<div class="wp-block-cover alignfull has-background-dim-0 has-background-dim has-parallax has-background-gradient is-style-default" style="background-image: url('https://proyectovinology.files.wordpress.com/2020/10/barriles.jpg'); min-height: 60px;"><span aria-hidden="true" class="wp-block-cover__gradient-background has-vivid-cyan-blue-to-vivid-purple-gradient-background"></span><div class="wp-block-cover__inner-container">
+<hr class="wp-block-separator">
+
+
+
+<h1 class="has-text-align-center"><img data-attachment-id="55" data-permalink="https://proyectovinology.wordpress.com/cropped-logo-512836732-1590614277-bb12560e7fb80c9d620bdf237c8b70551590614278-png/" data-orig-file="https://proyectovinology.files.wordpress.com/2020/10/cropped-logo-512836732-1590614277-bb12560e7fb80c9d620bdf237c8b70551590614278.png" data-orig-size="220,130" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cropped-logo-512836732-1590614277-bb12560e7fb80c9d620bdf237c8b70551590614278.png" data-image-description="&lt;p&gt;https://proyectovinology.files.wordpress.com/2020/10/cropped-logo-512836732-1590614277-bb12560e7fb80c9d620bdf237c8b70551590614278.png&lt;/p&gt;
+" data-medium-file="https://proyectovinology.files.wordpress.com/2020/10/cropped-logo-512836732-1590614277-bb12560e7fb80c9d620bdf237c8b70551590614278.png?w=220" data-large-file="https://proyectovinology.files.wordpress.com/2020/10/cropped-logo-512836732-1590614277-bb12560e7fb80c9d620bdf237c8b70551590614278.png?w=220" class="wp-image-55" style="width:300px;" src="https://proyectovinology.files.wordpress.com/2020/10/cropped-logo-512836732-1590614277-bb12560e7fb80c9d620bdf237c8b70551590614278.png" alt=""></h1>
+
+
+
+<p class="has-text-align-center"><em>Es una vinoteca que ha sido ideada como un espacio de interacción entre el cliente y el mundo vitivinícola.</em></p>
+
+
+
+<hr class="wp-block-separator">
+
+
+
+<p></p>
+</div></div>
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="67" data-permalink="https://proyectovinology.wordpress.com/shopping-1-2/" data-orig-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-1-2.png" data-orig-size="187,187" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="shopping-1-2" data-image-description="" data-medium-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-1-2.png?w=187" data-large-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-1-2.png?w=187" src="https://proyectovinology.files.wordpress.com/2020/10/shopping-1-2.png?w=187" alt="" class="wp-image-67" srcset="https://proyectovinology.files.wordpress.com/2020/10/shopping-1-2.png 187w, https://proyectovinology.files.wordpress.com/2020/10/shopping-1-2.png?w=150 150w" sizes="(max-width: 187px) 100vw, 187px" /></figure></div>
+
+
+
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-primary-color has-background-background-color has-text-color has-background" href="https://proyectovinology.wordpress.com/valentin-lacrado/" target="_blank" rel="noreferrer noopener">$200</a></div>
+</div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="71" data-permalink="https://proyectovinology.wordpress.com/shopping-4/" data-orig-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-4.png" data-orig-size="187,187" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="shopping-4" data-image-description="" data-medium-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-4.png?w=187" data-large-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-4.png?w=187" src="https://proyectovinology.files.wordpress.com/2020/10/shopping-4.png?w=187" alt="" class="wp-image-71" srcset="https://proyectovinology.files.wordpress.com/2020/10/shopping-4.png 187w, https://proyectovinology.files.wordpress.com/2020/10/shopping-4.png?w=150 150w" sizes="(max-width: 187px) 100vw, 187px" /></figure></div>
+
+
+
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-primary-color has-text-color">$1500</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column">
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="68" data-permalink="https://proyectovinology.wordpress.com/shopping-2/" data-orig-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-2.png" data-orig-size="187,187" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="shopping-2" data-image-description="" data-medium-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-2.png?w=187" data-large-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-2.png?w=187" src="https://proyectovinology.files.wordpress.com/2020/10/shopping-2.png?w=187" alt="" class="wp-image-68" srcset="https://proyectovinology.files.wordpress.com/2020/10/shopping-2.png 187w, https://proyectovinology.files.wordpress.com/2020/10/shopping-2.png?w=150 150w" sizes="(max-width: 187px) 100vw, 187px" /></figure></div>
+
+
+
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-primary-color has-text-color">$500</a></div>
+</div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="72" data-permalink="https://proyectovinology.wordpress.com/shopping-5/" data-orig-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-5.png" data-orig-size="187,187" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="shopping-5" data-image-description="" data-medium-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-5.png?w=187" data-large-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-5.png?w=187" src="https://proyectovinology.files.wordpress.com/2020/10/shopping-5.png?w=187" alt="" class="wp-image-72" srcset="https://proyectovinology.files.wordpress.com/2020/10/shopping-5.png 187w, https://proyectovinology.files.wordpress.com/2020/10/shopping-5.png?w=150 150w" sizes="(max-width: 187px) 100vw, 187px" /></figure></div>
+
+
+
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-primary-color has-text-color">$3500</a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column">
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="69" data-permalink="https://proyectovinology.wordpress.com/shopping-3/" data-orig-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-3.png" data-orig-size="187,187" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="shopping-3" data-image-description="" data-medium-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-3.png?w=187" data-large-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-3.png?w=187" src="https://proyectovinology.files.wordpress.com/2020/10/shopping-3.png?w=187" alt="" class="wp-image-69" srcset="https://proyectovinology.files.wordpress.com/2020/10/shopping-3.png 187w, https://proyectovinology.files.wordpress.com/2020/10/shopping-3.png?w=150 150w" sizes="(max-width: 187px) 100vw, 187px" /></figure></div>
+
+
+
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-primary-color has-text-color">$650</a></div>
+</div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img data-attachment-id="73" data-permalink="https://proyectovinology.wordpress.com/shopping-6/" data-orig-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-6.png" data-orig-size="187,187" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="shopping-6" data-image-description="" data-medium-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-6.png?w=187" data-large-file="https://proyectovinology.files.wordpress.com/2020/10/shopping-6.png?w=187" src="https://proyectovinology.files.wordpress.com/2020/10/shopping-6.png?w=187" alt="" class="wp-image-73" srcset="https://proyectovinology.files.wordpress.com/2020/10/shopping-6.png 187w, https://proyectovinology.files.wordpress.com/2020/10/shopping-6.png?w=150 150w" sizes="(max-width: 187px) 100vw, 187px" /></figure></div>
+
+
+
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-primary-color has-text-color">$4000</a></div>
+</div>
+</div>
+</div>
+
+
+<div class="wp-block-cover alignfull has-background-dim-20 has-background-dim has-parallax has-background-gradient" style="background-image: url('https://proyectovinology.files.wordpress.com/2020/10/vino.jpg');"><span aria-hidden="true" class="wp-block-cover__gradient-background has-vivid-cyan-blue-to-vivid-purple-gradient-background"></span><div class="wp-block-cover__inner-container">
+<hr class="wp-block-separator">
+
+
+
+<div style="height:20px;" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-text-align-center">Reserva tu lugar</h2>
+
+
+
+<p class="has-text-align-center">Realizamos catas semanalmente. Podes asegurar tu participación llenando el formulario.</p>
+
+
+
+<div style="height:20px;" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator">
+</div></div>
+
+
+<p class="has-text-align-center">Para reservar tu lugar, llámanos al 4901-5849 o usa el siguiente formulario.</p>
+
+
+<div id="contact-form-6" class="wp-block-jetpack-contact-form">
+<form action="https://proyectovinology.wordpress.com/#contact-form-6" method="post" class="contact-form commentsblock wp-block-jetpack-contact-form">
+
+
+<div class="grunion-field-wrap grunion-field-name-wrap">
+<label for="g6-nombre" class="grunion-field-label name">Nombre<span>(obligatorio)</span></label>
+<input type="text" name="g6-nombre" id="g6-nombre" value="" class="name" required aria-required="true">
+	</div>
+
+
+
+<div class="grunion-field-wrap grunion-field-email-wrap">
+<label for="g6-correoelectrnico" class="grunion-field-label email">Correo electrónico<span>(obligatorio)</span></label>
+<input type="email" name="g6-correoelectrnico" id="g6-correoelectrnico" value="" class="email" required aria-required="true">
+	</div>
+
+
+
+<div class="grunion-field-wrap grunion-field-telephone-wrap">
+<label for="g6-telfono" class="grunion-field-label telephone">Teléfono<span>(obligatorio)</span></label>
+<input type="tel" name="g6-telfono" id="g6-telfono" value="" class="telephone" required aria-required="true">
+	</div>
+
+
+
+<div class="grunion-field-wrap grunion-field-date-wrap jp-contact-form-date-wrap">
+<label for="g6-fecha" class="grunion-field-label date">Fecha<span>(obligatorio)</span></label>
+<input type="text" name="g6-fecha" id="g6-fecha" value="" class="date jp-contact-form-date" required aria-required="true">
+	</div>
+
+
+
+<div class="grunion-field-wrap grunion-field-textarea-wrap">
+<label for="contact-form-comment-g6-comentarios" class="grunion-field-label textarea">Comentarios</label>
+<textarea name="g6-comentarios" id="contact-form-comment-g6-comentarios" rows="20" class="textarea"></textarea>
+	</div>
+
+
+<div class="wp-block-jetpack-button"><button class="wp-block-button__link" style="" data-id-attr="placeholder" type="submit">Reservar</button></div>
+		<input type="hidden" id="_wpnonce" name="_wpnonce" value="f923219614"><input type="hidden" name="_wp_http_referer" value="/">
+		<input type="hidden" name="contact-form-id" value="6">
+		<input type="hidden" name="action" value="grunion-contact-form">
+		<input type="hidden" name="contact-form-hash" value="02653efbe4bb7e76132061c64d0dd1265e3d268d">
+</form>
+</div>
+
+<div class="wp-block-cover alignfull has-background-dim-60 has-background-dim has-background-gradient" style="background-image: url('https://proyectovinology.files.wordpress.com/2020/10/wines-selection-1.jpg'); min-height: 265px;"><span aria-hidden="true" class="wp-block-cover__gradient-background has-vivid-cyan-blue-to-vivid-purple-gradient-background"></span><div class="wp-block-cover__inner-container">
+<p></p>
+
+
+
+<p class="has-text-align-center has-huge-font-size"><strong>Información de contacto</strong></p>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<h5>Horario de apertura</h5>
+
+
+
+<p class="has-text-align-left has-small-font-size"><strong>Lu:</strong> cerrado<br><strong>Ma – Do:</strong> 11:30 h – 22:00 h</p>
+</div>
+
+
+
+<div class="wp-block-column">
+<h5 class="has-text-align-left">Ubicación</h5>
+
+
+
+<p class="has-text-align-left has-small-font-size">Argentina,<br>Avenida Siempre Viva 1234, Capital Federal </p>
+</div>
+
+
+
+<div class="wp-block-column">
+<h5 class="has-text-align-left">Contacto</h5>
+
+
+
+<p class="has-text-align-left has-small-font-size">4901-5849<br>contacto@vinology.com</p>
+</div>
+</div>
+</div></div>
+
+
+<p></p>
+	</div><!-- .entry-content -->
+
+			<footer class="entry-footer responsive-max-width">
+			<span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/page/proyectovinology.wordpress.com/6">Editar <span class="screen-reader-text">Página de inicio</span></a></span>		</footer><!-- .entry-footer -->
+	</article><!-- #post-6 -->
+
+		</main><!-- #main -->
+	</section><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+		<footer id="colophon" class="site-footer responsive-max-width">
+	
+		<div class="site-info">
+									<a href="https://wordpress.com/?ref=footer_website" rel="nofollow">Crea un blog o un sitio web gratuitos con WordPress.com.</a>					</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+<!--  -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery(document).ready( function($) {
+			function doFollowingHover() {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				$('#wp-admin-bar-follow > a').bind( 'mouseover.unfollow', function() {
+
+					$(this).html( "Dejar de Seguir" ).parent( 'li' ).addClass( 'unfollow' );
+				});
+				$('#wp-admin-bar-follow > a').bind( 'mouseout.unfollow', function() {
+					$(this).html( "Siguiendo" ).parent( 'li' ).removeClass( 'unfollow' );
+				});
+			}
+							doFollowingHover();
+			
+			$('#wp-admin-bar-follow > a').click( function( e ) {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				e.preventDefault();
+
+				var link = $( this ), li = $( '#wp-admin-bar-follow' ), timeout = 0;
+
+				if ( li.hasClass( 'subscribed' ) ) {
+					li.removeClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Seguir" );
+
+					$('body').append( $( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble' );
+
+					var action = 'ab_unsubscribe_from_blog';
+				} else {
+					li.addClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Siguiendo" );
+
+						var left = 131 - link.width();
+						li.append( $( 'div.wpcom-bubble' ).css( { left: '-' + left + 'px' } ) );
+						$( 'div.bubble-txt', 'div.wpcom-bubble' ).html( "New posts from this blog will now appear in \u003Ca target=\u0022_blank\u0022 href=\u0022http:\/\/es.wordpress.com\/\u0022\u003Eyour reader\u003C\/a\u003E. You can manage email alerts from your \u003Ca target=\u0022_blank\u0022 href=\u0022http:\/\/es.wordpress.com\/following\/edit\/\u0022\u003Esubscriptions page\u003C\/a\u003E." );
+
+						$( 'div.wpcom-bubble.action-bubble' ).addClass( 'fadein' );
+
+						setTimeout( function() {
+							$('body').on( 'click.bubble touchstart.bubble', function(e) {
+								if ( !$(e.target).hasClass('wpcom-bubble') && !$(e.target).parents( 'div.wpcom-bubble' ).length )
+									hideBubble();
+							});
+							setTimeout( hideBubble, 15000 );
+						}, 500 );
+
+					var action = 'ab_subscribe_to_blog';
+					$('#wp-admin-bar-follow > a').bind( 'mouseout.shift', function() {
+						doFollowingHover();
+						$(this).unbind( '.shift' );
+					});
+				}
+
+				var nonce = link.attr( 'href' ).split( '_wpnonce=' );
+				nonce = nonce[1];
+
+				$.post( "https:\/\/proyectovinology.wordpress.com\/wp-admin\/admin-ajax.php", {
+					'action': action,
+					'_wpnonce': nonce,
+					'source': 'admin_bar',
+					'blog_id': 183828716				});
+			});
+		});
+	/* ]]> */
+	</script>
+<div id="marketingbar" class="marketing-bar noskim"><div class="marketing-bar-text">Crea tu página web en WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/es?ref=marketing_bar">Empieza ahora</a><a class="marketing-bar-link" tabindex="-1" aria-label="Crea tu página web en WordPress.com" href="https://wordpress.com/start/es?ref=marketing_bar"></a></div><script src='//0.gravatar.com/js/gprofiles.js?ver=202043y' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":"b659ee80f6db8a5073d32327d5e4b343"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-b659ee80f6db8a5073d32327d5e4b343">
+	</div>
+	</div>
+<div id="report-form-window" style="display:none;"></div>
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?v=20201002";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20201002";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+
+	
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Añade tus pensamientos aquí... (opcional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Publicar en</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+							<option value="106919707">acvpodscast</option>
+							<option value="183828716"></option>
+							<option value="139041456">Pata Rincón</option>
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancelar</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Rebloguear entrada" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="183828716" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://proyectovinology.wordpress.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="6c34c11d70" /><input type="hidden" name="_wp_http_referer" value="/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<div class="widget widget_eu_cookie_law_widget">
+<div
+	class="hide-on-button ads-active"
+	data-hide-timeout="30"
+	data-consent-expiration="180"
+	id="eu-cookie-law"
+>
+	<form method="post">
+		<input type="submit" value="Cerrar y aceptar" class="accept" />
+
+		Privacidad &amp; Cookies: este sitio usa cookies. Al continuar usando este sitio, estás de acuerdo con su uso. Para saber más, incluyendo como controlar las cookies, mira aquí:
+				<a href="https://automattic.com/cookies" rel="nofollow">
+			Política de Cookies.		</a>
+ </form>
+</div>
+</div><link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/_static/??-eJyVzNEKwjAMheEXMgaFTXchPkuJ2Wi3pjVNGL69OvRW8PZ8/AfXClTEWAyzQ118itJwUpdYZKNABmPRjNQapruzPsAj3IJxjTSz7l+wwz+PPvCrpaDFGy+Y2GqgGb7DO7rmy6EbTufuOPR9egK0U0po?cssminify=yes' type='text/css' media='all' />
+<script id='thickbox-js-extra'>
+var thickboxL10n = {"next":"Siguiente >","prev":"< Anterior","image":"Imagen","of":"de","close":"Cerrar","noiframes":"Esta funci\u00f3n requiere de frames insertados. Tienes los iframes desactivados o tu navegador no los soporta.","loadingAnimation":"https:\/\/s0.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+</script>
+<script id='comment-like-js-extra'>
+var comment_like_text = {"loading":"Cargando..."};
+</script>
+<script id='notes-rest-common-js-extra'>
+var wpNotesArgs = {"cacheBuster":"@automattic\/jetpack-blocks@13.1.0-10108-gb64426e4ba","iframeUrl":"https:\/\/widgets.wp.com\/notifications\/","iframeAppend":"2","iframeScroll":"no","wide":"1"};
+</script>
+<script id='tos-report-form-js-extra'>
+var wpcom_tos_report_form = {"ajaxurl":"\/wp-admin\/admin-ajax.php","isLoggedoutUser":"","post_ID":"6","current_url":"https:\/\/proyectovinology.wordpress.com","report_this_content":"Denunciar este contenido"};
+</script>
+<script id='jetpack-carousel-js-extra'>
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"1","lang":"es","ajaxurl":"https:\/\/proyectovinology.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"185c479e3d","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comentario","post_comment":"Publicar comentario","write_comment":"Escribe un comentario...","loading_comments":"Cargando comentarios...","download_original":"Ver tama\u00f1o completo <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Por favor, aseg\u00farate de enviar el texto con tu comentario.","no_comment_email":"Por favor, proporciona una direcci\u00f3n de correo electr\u00f3nico para comentar.","no_comment_author":"Por favor, a\u00f1ade tu nombre al comentario.","comment_post_error":"Lo sentimos, pero ha habido un error al publicar tu comentario. Por favor, vuelve a intentarlo m\u00e1s tarde.","comment_approved":"Se ha aprobado tu comentario.","comment_unapproved":"Tu comentario est\u00e1 en moderaci\u00f3n.","camera":"C\u00e1mara","aperture":"Abertura","shutter_speed":"Velocidad de obturaci\u00f3n","focal_length":"Longitud focal","copyright":"Derechos de autor","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/proyectovinology.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fproyectovinology.wordpress.com%2F","blog_id":"183828716","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<p id=\"jp-carousel-commenting-as\">Comentando como acvpodscast<\/p>","reblog":"Rebloguear","reblogged":"Reblogueado","reblog_add_thoughts":"A\u00f1ade tus pensamientos aqu\u00ed... (opcional)","reblogging":"Reblogueando...","post_reblog":"Reblog de entrada","stats_query_args":"blog=183828716&v=wpcom&tz=-3&user=1&user_id=101082827&subd=proyectovinology","is_public":"1","reblog_enabled":""};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVU9tOwzAM/SGywAaIF8S3pInXus0Nx1nH35NsbB1T14EqVe25xMmxI8codPAMnmWfpIEdaoj7VZ8eZKHQa5sNpMpxh3powv78MSfqwg4ID+uJPq0c+jmVMoUQjaJLwWkbLotoc4v+Qld4HZyYfLc9RedqdYvDsZjFRqYRI/zH9Au4Nk6uxgY9JLlelUcaTHz0HuFibju+CGqm8IimBU4ScmHDgCCsGiWDi1YxXOFzUWZvgJIOBLfCblTtloe5rAvtcmKlu6V0fKhbObxFDSZ4sVvf1Z+btSzmkARBDMRiG8hd//9pOpxKDFRL1fEjrCc/Y/9cgankleaC7D8z0JfMKJfinlSmdDCWqwL3xryl7LGEWimlf3LoJ3xLB49ZGmBFISewsgeO5QDiBBTPh3t/en3crDfPL5u3/hsGAXiB'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Cerrar","currentText":"Hoy","monthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"monthNamesShort":["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"],"nextText":"Siguiente","prevText":"Previo","dayNames":["Domingo","Lunes","Martes","Mi\u00e9rcoles","Jueves","Viernes","S\u00e1bado"],"dayNamesShort":["Dom","Lun","Mar","Mie","Jue","Vie","Sab"],"dayNamesMin":["D","L","M","X","J","V","S"],"dateFormat":"d MM, yy","firstDay":1,"isRTL":false});});
+</script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?61" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['identifyUser', 101082827, 'acvpodscast']);
+_tkq.push(['storeContext', {'blog_id':'183828716','blog_tz':'-3','user_lang':'es','blog_lang':'es'}]);
+_stq.push(['view', {'blog':'183828716','v':'wpcom','tz':'-3','user':'1','user_id':'101082827','post':'6','subd':'proyectovinology'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1zNDZ8S252Wis9XUQyb3YrcUVIU2R0VH5TdVc3aWJOWS5HUTZSRHNZdTIzLmN+VUZ8MnpYNlVPT3FVV3otTDNqVE51UlpOZWpDd2xFWHpbbGgxRGxYa2dOUmJMZ1JlN1F5fFMwMUtGWVgwREIlMlRRVSZfYVlEOFVnOEcuYXJJViZvQno4TEhnR1loLW5xLTNINyZSS3ddS0FbZ1hkVl9PNWxPbXwza2lqMXFTeC9ffD9hZE92UzVpbVtVfjM5UEdZLl1DXW5YVy5Wc0V4LFd+LUNXY05YMWFkZlV8eXwwfGxjZFR4UDJSJmt4b3R8Tl1yPURpVFgreG98PUMxYnZ6cQ=='}]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script defer id="bilmur" data-provider="wordpress.com" data-service="simple" src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202043"></script><script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
+
